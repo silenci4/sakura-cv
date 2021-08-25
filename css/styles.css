@@ -1,0 +1,262 @@
+body {
+    margin: 0px;
+    background-color: #FFEDDA;
+}
+
+div {
+    height: 400px;
+    margin: 10px auto 10px auto;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family:BYekan,'BYekan',tahoma;
+    font-size: 5em;
+    color: #222831;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family:BNazanin,'BNazanin',tahoma;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.hi{
+    color: #EAFFD0;
+    font-weight: normal;
+    font-size: 2rem;
+}
+
+p {
+    color: #393E46;
+    font-family:BNazanin,'BNazanin',tahoma;
+    font-size: 1.2em;
+}
+.topdiv {
+    background-color: #95E1D3;
+    padding: 60px;
+    height: 700px;
+    text-align: center;
+    margin: 0px auto ;
+
+}
+
+
+.firstdiv {
+    background-color: #393E46;
+    margin-top: 0px;
+    height: 400%;
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+.seconddiv {
+    
+    margin-top: 0px;
+    height: 400%;
+    text-align: right;
+    margin-bottom: 0px;
+    background-color: #ff92c4;
+    
+}
+
+.cloud-img {
+    width: 208px;
+    height: 110px;
+    position: relative;
+    margin-left: 500px;
+}
+
+.cloud-img2 {
+    width: 208px;
+    height: 110px;
+    position: absolute;
+    top: 360px;
+    left: 200px;
+}
+
+.sakura {
+    opacity: 0.5;
+    position: absolute;
+    bottom: -0px;
+    left: 35%;
+}
+
+.sakura:hover{
+    opacity: 0.95;
+}
+
+.mountdiv {
+    position: relative;
+    margin-top: 13em;
+}
+
+.profilepic {
+    align-items: center;
+    display: block;
+    position: relative;
+    margin-top: 20px;
+    padding: 0px;
+    margin: 0px auto;
+    border-style: solid;
+    border-radius: 100%;
+    border-width: 7px;
+    border-color: #ff92c4;
+}
+
+.biobox {
+    width: 50%;
+    height: 200%;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    margin: 0 auto;
+}
+
+.bioboxtext{
+    color: #EAFFD0;
+    text-align: justify;
+    font-size: 1.1em;
+    font-weight: normal;
+    line-height: 2em;
+}
+
+
+.skills {
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+    height:80% ;
+    padding-bottom: 50px;
+}
+
+.sk {
+    color: #393E46;
+    font-weight: bold;
+}
+
+.finance {
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+}
+
+.financeadv {
+    border: none;
+    border-radius: 100%;
+    width: 170px;
+    float: left;
+    border-style:solid;
+    border-width: 5px;
+    border-color: #EAFFD0;
+    
+}
+
+.divide {
+    margin-bottom: 100px;
+}
+
+.marketingimg{
+    float: left;
+    margin-right: 20px;
+}
+
+.marketing{
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+
+hr {
+    width: 35%;
+    align-items: center;
+    size: 3px;
+}
+
+.contactdiv {
+    padding-top: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.BUTTON_XTD {
+    background: #FF92C4;
+    background-image: -webkit-linear-gradient(top, #FF92C4, #FF92C4);
+    background-image: -moz-linear-gradient(top, #FF92C4, #FF92C4);
+    background-image: -ms-linear-gradient(top, #FF92C4, #FF92C4);
+    background-image: -o-linear-gradient(top, #FF92C4, #FF92C4);
+    background-image: -webkit-gradient(to bottom, #FF92C4, #FF92C4);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: BNazanin,'BNazanin',tahoma;
+    font-size: 40px;
+    font-weight: 100;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 10px 0 #000000;
+    text-shadow: 0 0 3px #000000;
+    border: solid #9C0E4F 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 0 auto;
+    height: 2em;
+ }
+ 
+ .BUTTON_XTD:hover {
+    border: solid #E8A3C3 2px;
+    background: #E63A89;
+    background-image: -webkit-linear-gradient(top, #E63A89, #BE1261);
+    background-image: -moz-linear-gradient(top, #E63A89, #BE1261);
+    background-image: -ms-linear-gradient(top, #E63A89, #BE1261);
+    background-image: -o-linear-gradient(top, #E63A89, #BE1261);
+    background-image: -webkit-gradient(to bottom, #E63A89, #BE1261);
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+    text-decoration: none;
+ }
+
+ .padd {
+    padding: 0 0 3em 0;
+ }
+
+ .titleh2 {
+     font-weight: bold;
+ }
+
+ a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.footer {
+    background-color: #95E1D3;
+    height: 50px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.topdiv {
+    padding-top: 40px;
+}
+
+.footnote {
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 12px;
+}
